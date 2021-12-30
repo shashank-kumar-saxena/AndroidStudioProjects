@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">1_Challange</string>
+    <string name="aggrement">This is our Licence Aggrement.You can share this app anywhere your want and use is however you want Just remember to have fun.
+    </string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="gender">Gender:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="country">City :</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="pick_image">Pick Image</string>
+    <string-array name="Country">
+        <item>Delhi</item>
+        <item>Moradabad</item>
+        <item>Ghaziabad</item>
+        <item>Lucknow</item>
+    </string-array>
+</resources>

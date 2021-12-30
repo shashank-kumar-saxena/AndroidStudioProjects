@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UIDesign Part3</string>
+    <string name="python">Python</string>
+    <string name="javascript">JavaScript</string>
+    <string name="android">Android</string>
+    <string name="single">Single</string>
+    <string name="married">Married</string>
+    <string name="type_of_progressbar">Type Of ProgressBar</string>
+    <string name="in_the_relationshp">In the relationshp</string>
+</resources>

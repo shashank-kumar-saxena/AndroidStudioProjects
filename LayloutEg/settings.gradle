@@ -1,0 +1,2 @@
+rootProject.name = "LayloutEg"
+include ':app'

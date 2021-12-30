@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">kotlinHappyBirthday</string>
+    <string name="signature_text">From Shashank</string>
+    <string name="greeting_ext">Happy Borthday, XYZ</string>
+    <string name="todo">TODO</string>
+</resources>
